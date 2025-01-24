@@ -11,8 +11,9 @@ import { Button } from "@/components/ui/button"
 
 const Form = () => {
   return (
-    <div className="border border-white rounded-xl m-4 p-4 flex flex-col">
-        <Input placeholder="Name" />
+    <div>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdQ_P9HI-ynXpXxKx4rrrPvvAk2GhpR5r4PTgvah0jTzCckZQ/viewform?embedded=true" width="450" height="1110" className="overflow-hidden" >Loading…</iframe>
+        {/* <Input placeholder="Name" />
         <Input className="mt-4" placeholder="Email" />
         <Textarea className="mt-4" placeholder="Organization / Company Name" />
         <div className="mt-4">Which option best describes your company ?</div>
@@ -27,7 +28,7 @@ const Form = () => {
             </SelectContent>
         </Select>
         <Textarea className="mt-4" placeholder="Tell us more about your project needs"/>
-        <Button  className="bg-transparent mt-4 text-white border border-white hover:bg-white hover:text-black">Submit</Button>
+        <Button  className="bg-transparent mt-4 text-white border border-white hover:bg-white hover:text-black">Submit</Button> */}
     </div>
   )
 }
