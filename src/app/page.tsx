@@ -30,12 +30,12 @@ const page = () => {
           text="Upgrade your CCTV effortlessly with your plug-and-play AI device. No rewiring or camera replacements needed."
         />
         <CCard
-          title="Seamless Integration"
-          text="Upgrade your CCTV effortlessly with your plug-and-play AI device. No rewiring or camera replacements needed."
+          title="Edge AI Power"
+          text="Enjoy real-time surveillance with our edge AI device. No need for cloud processing, ensuring privacy and security."
         />
         <CCard
-          title="Seamless Integration"
-          text="Upgrade your CCTV effortlessly with your plug-and-play AI device. No rewiring or camera replacements needed."
+          title="Smart Surveillance"
+          text="Manage parking spaces, detect breaches, and monitor vehicles with our AI solution. All in one device."
         />
       </div>
 

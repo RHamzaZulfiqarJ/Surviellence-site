@@ -17,7 +17,7 @@ const Form = () => {
         <Textarea className="mt-4" placeholder="Organization / Company Name" />
         <div className="mt-4">Which option best describes your company ?</div>
         <Select>
-            <SelectTrigger className="w-[180px] mt-2">
+            <SelectTrigger className="mt-2">
                 <SelectValue placeholder="Select" />
             </SelectTrigger>
             <SelectContent>
@@ -27,7 +27,7 @@ const Form = () => {
             </SelectContent>
         </Select>
         <Textarea className="mt-4" placeholder="Tell us more about your project needs"/>
-        <Button className="bg-transparent mt-4 text-white border border-white hover:bg-white hover:text-black">Submit</Button>
+        <Button  className="bg-transparent mt-4 text-white border border-white hover:bg-white hover:text-black">Submit</Button>
     </div>
   )
 }

@@ -4,7 +4,7 @@ import { Typewriter } from "react-simple-typewriter";
 
 const TypewriterEffect = () => {
   return (
-      <h1 className="text-4xl font-bold text-blue-600">
+      <h1 className="text-4xl font-bold text-white">
         {"\""}
         <Typewriter
           words={["Industries", "Work-Zones", "Operational Sites"]}
