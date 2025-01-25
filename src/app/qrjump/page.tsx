@@ -1,5 +1,5 @@
 import CCard from "@/Utilities/Card";
-import Form from "@/Utilities/Form";
+import Form from "../../Utilities/Form";
 import TypewriterEffect from "@/Utilities/Typing";
 
 const page = () => {
@@ -39,7 +39,7 @@ const page = () => {
         />
       </div>
 
-      <div className="m-4 max-w-[425px]">
+      <div className="m-4">
         <div className="text-4xl text-white font-bold ml-4">Add a Feedback</div>
         <Form />
       </div>
