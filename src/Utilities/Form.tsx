@@ -12,7 +12,7 @@
 const Form = () => {
   return (
     <div>
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdQ_P9HI-ynXpXxKx4rrrPvvAk2GhpR5r4PTgvah0jTzCckZQ/viewform?embedded=true" width="450" height="1110" className="overflow-hidden" >Loading…</iframe>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdQ_P9HI-ynXpXxKx4rrrPvvAk2GhpR5r4PTgvah0jTzCckZQ/viewform?embedded=true" height="1110" className="overflow-hidden" style={{width: "100%"}}>Loading…</iframe>
         {/* <Input placeholder="Name" />
         <Input className="mt-4" placeholder="Email" />
         <Textarea className="mt-4" placeholder="Organization / Company Name" />
