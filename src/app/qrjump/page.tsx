@@ -1,8 +1,6 @@
 import CCard from "@/Utilities/Card";
 import Form from "../../Utilities/Form";
 import TypewriterEffect from "@/Utilities/Typing";
-import cameraIcon from "../../../public/cameras.png";
-import styles from "./styles.module.css";
 
 const page = () => {
   return (
